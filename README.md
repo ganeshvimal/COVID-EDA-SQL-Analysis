@@ -1,1 +1,3 @@
-# COVID-EDA-SQL-Analysis
+# COVID-EDA-SQL-Analysis 
+
+This exploratory data analysis (EDA) project in SQL investigates the impact of COVID-19 globally, focusing on infection rates, death percentages, and vaccination progress. The analysis explores key metrics like total cases, deaths, and infection rates relative to population, identifying countries with the highest infection and death rates. By leveraging SQL techniques such as CTEs, temporary tables, and window functions, the project calculates rolling vaccination totals and vaccination percentages by location. The data is further refined by filtering, grouping, and casting to handle data quality issues and create insights. Finally, a view is created for reusable insights on vaccination progress
